@@ -17,6 +17,7 @@ Beyond research, I am a classical musician playing the violin<span id="violin">�
 I have performed as soloist at the National Centre for the Performing Arts and the Forbidden City Concert Hall, and as tutti at Benaroya Hall and Meany Center.
 
 ## 🗞️ News
+- **[Dec 2025]** I am honored to be selected as *Finalist* for the [CRA Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/).
 - **[Nov 2025]** [Infini-gram mini](https://infini-gram-mini.io/) received the <span style="color: red">**Best Paper Award**</span> at EMNLP 2025 🥳!
 - **[Aug 2025]** [Infini-gram mini](https://infini-gram-mini.io/) is accepted to EMNLP 2025 Main Conference!
 
