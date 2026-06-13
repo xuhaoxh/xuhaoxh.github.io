@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi <span id="handwave">👋🏻</span>! I'm an undergraduate student at the [University of Washington (UW)](https://washington.edu/), majoring in computer science with a minor in music. At UW, I am fortunate to work with Professor [Hannaneh Hajishirzi](https://hannaneh.ai/) and Professor [Noah A. Smith](https://nasmith.github.io/), and I am mentored by [Jiacheng Liu](https://liujch1998.github.io/) and [Alisa Liu](https://alisawuffles.github.io/). 
+Hi <span id="handwave">👋🏻</span>! I'm an incoming CS PhD student at [Stanford University](https://www.stanford.edu/), advised by Professor [Yejin Choi](https://yejinc.github.io/). I am supported by the [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf).
+
+Previously, I graduated from [University of Washington](https://washington.edu/), majoring in computer science with a minor in music. At UW, I was fortunate to work with Professor [Hannaneh Hajishirzi](https://hannaneh.ai/) and Professor [Noah A. Smith](https://nasmith.github.io/), and was mentored by [Jiacheng Liu](https://liujch1998.github.io/) and [Alisa Liu](https://alisawuffles.github.io/).
+
+<!-- Hi <span id="handwave">👋🏻</span>! I'm an undergraduate student at the [University of Washington (UW)](https://washington.edu/), majoring in computer science with a minor in music. At UW, I am fortunate to work with Professor [Hannaneh Hajishirzi](https://hannaneh.ai/) and Professor [Noah A. Smith](https://nasmith.github.io/), and I am mentored by [Jiacheng Liu](https://liujch1998.github.io/) and [Alisa Liu](https://alisawuffles.github.io/).  -->
 
 My research interest lies in natural language processing with a focus on large language models. My current research focuses on massive text corpora analysis, data curation for LLM pretraining, and tokenization. 
 
-**I am actively seeking PhD positions for fall 2026. Please feel free to reach out!**
+<!-- **I am actively seeking PhD positions for fall 2026. Please feel free to reach out!** -->
 
-Beyond research, I am a classical musician playing the violin<span id="violin">🎻</span>. I study with Professor [Ronald Patterson](https://music.washington.edu/people/ronald-patterson) and Professor Xiongda Jiang. I served as first violinist of UW Symphony Orchestra and associate concertmaster of Beijing Sun Youth Orchestra.
-I have performed as soloist at the National Centre for the Performing Arts and the Forbidden City Concert Hall, and as tutti at Benaroya Hall and Meany Center.
 
 ## 🗞️ News
-- **[Dec 2025]** I am honored to be selected as *Finalist* for the [CRA Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/).
+- **[Jun 2026]** I am honored to receieve the [Outstanding Allen School Senior Award](https://www.cs.washington.edu/news-events/graduation-celebration/end-of-year-awards/) and [Best Senior Thesis Runner Up](https://www.cs.washington.edu/news-events/graduation-celebration/end-of-year-awards/).
+- **[Mar 2026]** I am grateful to have received the [SGF Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf).
+- **[Dec 2025]** I was selected as *Finalist* for the [CRA Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/).
 - **[Nov 2025]** [Infini-gram mini](https://infini-gram-mini.io/) received the <span style="color: red">**Best Paper Award**</span> at EMNLP 2025 🥳!
 - **[Aug 2025]** [Infini-gram mini](https://infini-gram-mini.io/) is accepted to EMNLP 2025 Main Conference!
 
@@ -43,11 +47,20 @@ I have performed as soloist at the National Centre for the Performing Arts and t
   contamination bulletin
 </a>]
 
+**Are you going to finish that? A Practical Study of the Partial Token Problem**
+<br><ins>Hao Xu</ins>, Alisa Liu, Jonathan Hayase, Yejin Choi, Noah A. Smith
+<br>*Arxiv*
+<br>
+[<a href="https://arxiv.org/abs/2601.23223">
+  paper
+</a>]
 
 ## 🎓 Education
-- **University of Washington**, *2022 - 2026 (Expected)*
+- **University of Washington**, *2022 - 2026*
 <br>*Bachelor of Science in Computer Science with Honors*
 <br>*Minor in Music*
   - GPA: 3.96/4.00
 
-
+## 🎻 Misc
+Beyond research, I am a classical musician playing the violin<span id="violin">🎻</span>. I studied with Professor [Ronald Patterson](https://music.washington.edu/people/ronald-patterson) and Professor Xiongda Jiang. I served as first violinist of UW Symphony Orchestra and associate concertmaster of Beijing Sun Youth Orchestra.
+I have performed as soloist at the National Centre for the Performing Arts and the Forbidden City Concert Hall, and as tutti at Benaroya Hall and Meany Center.
